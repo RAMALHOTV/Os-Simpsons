@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] The Loud House[/B][/COLOR]
+#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] Os Simpsons[/B][/COLOR]
 http://canais.servidor
 
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/cartoons/ossimpsons.jpg"group-title="Os Simpsons",E001
